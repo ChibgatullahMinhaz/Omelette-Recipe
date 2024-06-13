@@ -26,7 +26,10 @@
    
   }
 
-  @media screen and (max-width: 430px) {
+  @media screen and (max-width: 530px) {
+       body{
+        margin: 10px;
+    }
     h1{
         font-size:35px;
     }
