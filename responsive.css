@@ -1,10 +1,9 @@
 @media  screen and (max-width: 375px) {
     body {
       background-color: lightblue;
-      margin: 10px;
     }
     h1{
-        font-size:28px;
+        font-size:1.7rem !important;
     }
     .content p{
         text-align: justify;
@@ -26,15 +25,4 @@
    
   }
 
-  @media screen and (max-width: 530px) {
-       body{
-        margin: 10px;
-    }
-    h1{
-        font-size:35px;
-    }
-    .content p{
-        text-align: justify;
-    }
-    
-  }
+ 
